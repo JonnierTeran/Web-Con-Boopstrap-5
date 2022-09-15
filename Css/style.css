@@ -1,0 +1,37 @@
+.container-fluid{
+    background-color: rgb(56, 129, 225) !important;
+    padding:2%;
+
+}
+img{
+    width: 25%;
+    height: 25%;
+    cursor: pointer;
+    margin-left: 6%;
+    border-radius: 40%;
+}
+
+h1{
+    display: inline-block !important;   
+    padding-left: 10%;
+    color: rgb(12, 12, 12);
+    font-family:cursive ;
+    
+}
+
+.form-floating mb-3 mt-3{
+    text-align: center !important;
+    width: 50% !important;
+    cursor: pointer !important;
+}
+
+.container{
+    width: 27% !important;
+    
+}
+.btn-primary{
+    text-align: center !important;
+    margin-left: 30% !important;
+    cursor: pointer !important;
+    color: black;
+}
